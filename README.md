@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Research Paper on Crack Detection Techniques Using Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Learning**
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **Development Projects**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ayushidadhich912@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Ayushi912/Ayushi912/blob/main/Resume.pdf](https://github.com/Ayushi912/Ayushi912/blob/main/Resume.pdf)
+- 📄 Know about my experiences [https://github.com/Ayushi912/Ayushi912/blob/main/Resume_Ayushi.pdf](https://github.com/Ayushi912/Ayushi912/blob/main/Resume_Ayushi.pdf))
 
 - ⚡ Fun fact **Seriously Funny**
 
