@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I’m currently working on **Crack Detection Techniques**
+- 🔭 I’m currently working on **Crack Detection Techniques Using Machine Learning**
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Learning**
 
