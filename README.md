@@ -1,5 +1,5 @@
 ![logo](https://github.com/Ayushi912/Ayushi912/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Ayushi</h1>
+<h1 align="center">Hi 👋, I'm Ayushi!</h1>
 <h3 align="center">A passionate Software Engineer with good technical skills</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
